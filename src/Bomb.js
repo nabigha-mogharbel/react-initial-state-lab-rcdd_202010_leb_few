@@ -7,7 +7,9 @@ export default class Bomb extends Component {
   }
   render(){
     return(
-      <div className="Bomb"></div>
+      <div className="Bomb">
+        I
+      </div>
     )
   }
 }
